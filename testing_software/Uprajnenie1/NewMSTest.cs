@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TicTacToe;
 
-namespace university.Term4.testing_software.Uprajnenie1
+namespace Uprajnenie1
 {
     [TestClass]
     public class NewMSTest

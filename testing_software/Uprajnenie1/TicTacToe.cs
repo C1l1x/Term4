@@ -1,4 +1,4 @@
-namespace TicTacToe{
+namespace Uprajnenie1{
 
     public class game
     {
