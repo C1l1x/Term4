@@ -1,0 +1,5 @@
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/obj/Debug/net7.0/testing_software.csproj.AssemblyReference.cache
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/obj/Debug/net7.0/testing_software.GeneratedMSBuildEditorConfig.editorconfig
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/obj/Debug/net7.0/testing_software.AssemblyInfoInputs.cache
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/obj/Debug/net7.0/testing_software.AssemblyInfo.cs
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/obj/Debug/net7.0/testing_software.csproj.CoreCompileInputs.cache
