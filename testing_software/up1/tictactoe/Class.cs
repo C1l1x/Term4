@@ -1,6 +1,11 @@
-namespace Uprajnenie1{
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-    public class game
+namespace tictactoe{
+
+    public class Class
     {
         int curPlayer = 1; // 1->x , 2->O
 

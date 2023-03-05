@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/testing_software.csproj": {}
+    "/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up1/tictactoe/tictactoe.csproj": {}
   },
   "projects": {
-    "/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/testing_software.csproj": {
+    "/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up1/tictactoe/tictactoe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/testing_software.csproj",
-        "projectName": "testing_software",
-        "projectPath": "/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/testing_software.csproj",
+        "projectUniqueName": "/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up1/tictactoe/tictactoe.csproj",
+        "projectName": "tictactoe",
+        "projectPath": "/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up1/tictactoe/tictactoe.csproj",
         "packagesPath": "/home/cilix/.nuget/packages/",
-        "outputPath": "/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/obj/",
+        "outputPath": "/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up1/tictactoe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/cilix/.nuget/NuGet/NuGet.Config"

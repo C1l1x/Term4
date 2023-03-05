@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = testing_software
-build_property.ProjectDir = /home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/
+build_property.RootNamespace = tictactoe
+build_property.ProjectDir = /home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up1/tictactoe/
