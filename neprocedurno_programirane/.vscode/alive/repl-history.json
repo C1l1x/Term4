@@ -1,0 +1,1 @@
+[{"pkgName":"cl-user","text":"(defun Num (n)"},{"pkgName":"cl-user","text":"3"},{"pkgName":"cl-user","text":"4"},{"pkgName":"cl-user","text":"5"},{"pkgName":"cl-user","text":"(defun num()(setq x (read))x)"}]

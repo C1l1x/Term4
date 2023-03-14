@@ -1,0 +1,15 @@
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/bin/Debug/net7.0/TicTacToe
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/bin/Debug/net7.0/TicTacToe.deps.json
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/bin/Debug/net7.0/TicTacToe.runtimeconfig.json
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/bin/Debug/net7.0/TicTacToe.dll
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/bin/Debug/net7.0/TicTacToe.pdb
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.AssemblyReference.cache
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/obj/Debug/net7.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfoInputs.cache
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfo.cs
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.CoreCompileInputs.cache
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/obj/Debug/net7.0/TicTacToe.dll
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/obj/Debug/net7.0/refint/TicTacToe.dll
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/obj/Debug/net7.0/TicTacToe.pdb
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/obj/Debug/net7.0/TicTacToe.genruntimeconfig.cache
+/home/cilix/Cilix Folder/VSCode/university/Term4/testing_software/up2/TicTacToe/obj/Debug/net7.0/ref/TicTacToe.dll
